@@ -1,5 +1,5 @@
 # CDLL
-Circular doubly linked list
+Circular doubly linked list model
 
 12.22.2019
 
